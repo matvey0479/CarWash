@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Matvey\\Документы\\PetProjects\\CarWash\\CarWash\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Matvey\\Документы\\PetProjects\\CarWash\\CarWash\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Matvey\\Документы\\PetProjects\\CarWash\\CarWash\\wwwroot\\images\\whyItemLogo1.png",
+      "PackagePath": "staticwebassets\\images\\whyItemLogo1.png"
+    },
+    {
+      "Id": "C:\\Users\\Matvey\\Документы\\PetProjects\\CarWash\\CarWash\\wwwroot\\images\\whyItemLogo2.png",
+      "PackagePath": "staticwebassets\\images\\whyItemLogo2.png"
+    },
+    {
+      "Id": "C:\\Users\\Matvey\\Документы\\PetProjects\\CarWash\\CarWash\\wwwroot\\images\\whyItemLogo3.png",
+      "PackagePath": "staticwebassets\\images\\whyItemLogo3.png"
+    },
+    {
+      "Id": "C:\\Users\\Matvey\\Документы\\PetProjects\\CarWash\\CarWash\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Matvey\\Документы\\PetProjects\\CarWash\\CarWash\\wwwroot\\lib\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Matvey\\Документы\\PetProjects\\CarWash\\CarWash\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Matvey\\Документы\\PetProjects\\CarWash\\CarWash\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Matvey\\Документы\\PetProjects\\CarWash\\CarWash\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\Matvey\\Документы\\PetProjects\\CarWash\\CarWash\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Matvey\\Документы\\PetProjects\\CarWash\\CarWash\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CarWash.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CarWash.props",
+      "PackagePath": "build\\CarWash.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CarWash.props",
+      "PackagePath": "buildMultiTargeting\\CarWash.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CarWash.props",
+      "PackagePath": "buildTransitive\\CarWash.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

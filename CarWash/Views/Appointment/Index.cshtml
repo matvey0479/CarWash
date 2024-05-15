@@ -1,0 +1,49 @@
+﻿
+@model CarWash.Models.AddAppointmentViewModel
+    <form class = "addAppointment" asp-controller="Appointment" asp-action="Index"> 
+         <div class="div-box">
+            <input class="textbox" type="textbox" placeholder="Введите имя" asp-for="client.Name" required/>
+            <input  class="textbox" type="textbox" placeholder="x-xxx-xxx-xx-xx" id="phone" required asp-for="client.PhoneNumper"/>
+         </div>
+         <div class="div-box">
+             <select class="textbox" asp-for="serviceItem.Title">
+                @foreach (var item in Model.serviceItems)
+                {
+                    <option>@item.Title.ToString()</option>
+            
+                }
+            </select>
+            <input id="dateOnly" name="date" class="textbox" type="date" asp-for="freeTime.Date" required />
+         </div>
+         <div class="div-box">
+             <div id="timeOnly">
+                 <partial name="_ShowFreeTimePartialView.cshtml" model="@Model" />
+                 <input class="buttonAddApp" type="submit" asp-controller="Appointment" asp-action="AddAppointment" value="Записаться" />
+             </div>
+             
+         </div>
+
+
+
+</form>
+
+@section Scripts{ 
+<script>  
+    $(function () {
+        $("#dateOnly").change(function () {
+            $.ajax({
+                type: "Get",
+                url: "/Appointment/ShowFreeTime?date=" + $(this).val(),  
+                success: function (data) {
+                    $("#timeOnly").html("");
+                    $("#timeOnly").html(data);
+                },
+                error: function (response) {
+                    console.log(response.responseText);
+                }
+            });
+
+        });
+    });
+</script>
+}

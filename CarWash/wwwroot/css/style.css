@@ -1,0 +1,185 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+    font-family: 'Source Code Pro';
+}
+.header{
+    margin: 0;
+    position: sticky;
+    top: 0;
+}
+.header-line{
+    background-color:darkgray;
+}
+.nav{
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+
+}
+.nav-item{
+    color: black;
+    font-size: 18pt;
+    font-weight: 600;
+    text-decoration: none;
+    margin-right: 25px;   
+}
+.main {
+    padding-top: 55px;
+    margin-top: -55px;
+    background-image: url(../images/bg.jpg);
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    align-items: justify;
+}
+
+.main-heading{
+    font-size: 5vw;
+    text-align: center;
+    color: aliceblue;
+    font-weight: bolder;
+    padding-top: 6%;
+
+}
+.heading-down{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 2.5vw;
+    font-weight:300;
+    text-align: center;
+    color: aliceblue;
+}
+
+.appointment {
+    margin-top: 3.5vh;
+    height: 15vh;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 4px solid aliceblue;
+    display: flex;
+    justify-content: space-around;
+    /*   flex-wrap: wrap;*/
+}
+
+
+.addAppointment {
+    margin-top: 5vh;
+    height: 35vh;
+    width: 30vw;
+    margin-left: 35%;
+    margin-right: 35%;
+    border: 4px solid aliceblue;
+}
+
+.login {
+    margin-top: 2vh;
+    height: 45vh;
+    width: 30vw;
+    margin-left: 35%;
+    margin-right: 35%;
+    color: aliceblue;
+    font-weight: 600;
+    border: 4px solid aliceblue;
+    text-align: center;
+}
+
+
+
+.div-box {
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+.button {
+    height: 7vh;
+    line-height: 7vh;
+    width: 10vw;
+    margin-top:4vh;
+    font-size: 1.2vw;
+    font-weight: bolder;
+    text-align: center;
+    border-radius: 3px;
+    color: aliceblue;
+    background-color: orange;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+}
+
+.buttonAddApp {
+    height: 5vh;
+    line-height: 5vh;
+    width: 10vw;
+    font-size: 1.2vw;
+    font-weight: bolder;
+    text-align: center;
+    border-radius: 3px;
+    color: aliceblue;
+    background-color: orange;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+}
+
+.textbox {
+    height: 5vh;
+    width: 10vw;
+    margin-bottom:3vh;
+    border-radius: 5px;
+    border: none;
+    font-size: 1vw;
+}
+.why{
+    padding-top: 55px;
+	margin-top: -45px;
+    height: 100vh;
+}
+
+.headingWhy{
+    margin-top: 8vh;
+    font-size: 2.8vw;
+    text-align: center;
+    font-weight: 600;
+}
+.headingWhy-down{
+    font-size: 4.8vw;
+    text-align: center;
+    font-weight: 900;
+}
+
+
+.itemsWhy
+{
+    margin-top: 10vh;
+    display: flex;
+    justify-content: space-around;
+
+}
+.logo{
+    display: block;
+    margin: 0 auto; 
+}
+.item{
+    text-align: center;
+    width: 30vw;
+    
+}
+
+.mainfact{
+    margin-top: 25px;
+    font-size: 2vw;
+    font-weight: bolder;
+}
+.detail{
+    margin-top: 4vh;
+    margin-bottom: 5vh;
+    font-size: 1.6vw;
+    font-weight: 600;
+}

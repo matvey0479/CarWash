@@ -1,0 +1,15 @@
+﻿@model CarWash.Models.AddAppointmentViewModel
+
+        <select class="textbox" asp-for="freeTime.Time" required>
+        @if(Model.freeTimes.Any())
+        {
+              @foreach(var item in Model.freeTimes)
+                {
+                    <option>@item.Time.ToString()</option>
+                }
+        
+        }
+  
+        </select>
+
+            

@@ -1,0 +1,22 @@
+﻿@model CarWash.Models.LoginViewModel
+<div class = "login">
+		<div class="div-box">Вход в личный кабинет</div>
+		<form asp-controller="Account" asp-action ="Login" methot = "post" asp-route-returnUrl="@ViewBag.returnUrl">
+			<div class="div-box">
+				<input class = "textbox" placeholder="Логин" asp-for = "UserName"/>
+				<span asp-validation-for="UserName"></span>
+			</div>
+			<div class="div-box">
+				<input class = "textbox" placeholder="Пароль" asp-for = "Password"/>
+				<span asp-validation-for="Password"></span>
+			</div>
+			<div class="div-box">
+				<label asp-for="RememberMe"></label>
+				<input  asp-for = "RememberMe"/>
+				<span asp-validation-for="RememberMe"></span>
+			</div>
+			<div class="div-box">
+				<input class = "buttonAddApp" type = submit value ="Войти"/>
+			</div>
+		</form>
+</div> 

@@ -1,0 +1,713 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\service\\adminareaauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\service\\adminareaauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\views\\appointment\\_showfreetimepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\views\\appointment\\_showfreetimepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\domain\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\domain\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\service\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\service\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\views\\shared\\scriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\views\\shared\\scriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\domain\\repositories\\entityframework\\effreetimesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\domain\\repositories\\entityframework\\effreetimesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\domain\\repositories\\entityframework\\efappointmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\domain\\repositories\\entityframework\\efappointmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\domain\\repositories\\entityframework\\efserviceitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\domain\\repositories\\entityframework\\efserviceitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\domain\\entites\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\domain\\entites\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\domain\\entites\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\domain\\entites\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\domain\\repositories\\entityframework\\efclientsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\domain\\repositories\\entityframework\\efclientsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\domain\\repositories\\abstract\\iappointmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\domain\\repositories\\abstract\\iappointmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\domain\\repositories\\abstract\\ifreetimesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\domain\\repositories\\abstract\\ifreetimesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\domain\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\domain\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\domain\\repositories\\abstract\\iclientsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\domain\\repositories\\abstract\\iclientsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\domain\\repositories\\abstract\\itakentimerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\domain\\repositories\\abstract\\itakentimerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\domain\\repositories\\entityframework\\eftakentimerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\domain\\repositories\\entityframework\\eftakentimerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\domain\\repositories\\abstract\\iserviceitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\domain\\repositories\\abstract\\iserviceitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\domain\\entites\\freetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\domain\\entites\\freetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\domain\\entites\\takentime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\domain\\entites\\takentime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\domain\\entites\\serviceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\domain\\entites\\serviceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\models\\addappointmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\models\\addappointmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\views\\shared\\csspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\views\\shared\\csspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\service\\converters\\dateonlycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\service\\converters\\dateonlycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\service\\converters\\timeonlyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\service\\converters\\timeonlyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\service\\converters\\dateonlyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\service\\converters\\dateonlyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|c:\\users\\matvey\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\petprojects\\carwash\\carwash\\service\\converters\\timeonlycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF4A6F-C927-46D8-9D86-E48D4A6FBB32}|CarWash\\CarWash.csproj|solutionrelative:carwash\\service\\converters\\timeonlycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "CarWash\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "CarWash\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-05T07:29:19.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Views\\Appointment\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarWash\\Views\\Appointment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Views\\Appointment\\Index.cshtml",
+              "RelativeToolTip": "CarWash\\Views\\Appointment\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T07:29:19.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CarWash\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CarWash\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "CarWash\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "CarWash\\Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarWash\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CarWash\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T07:29:19.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CarWash\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "CarWash\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T07:29:19.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ShowFreeTimePartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Views\\Appointment\\_ShowFreeTimePartialView.cshtml",
+              "RelativeDocumentMoniker": "CarWash\\Views\\Appointment\\_ShowFreeTimePartialView.cshtml",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Views\\Appointment\\_ShowFreeTimePartialView.cshtml",
+              "RelativeToolTip": "CarWash\\Views\\Appointment\\_ShowFreeTimePartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T07:29:19.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminAreaAuthorization.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Service\\AdminAreaAuthorization.cs",
+              "RelativeDocumentMoniker": "CarWash\\Service\\AdminAreaAuthorization.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Service\\AdminAreaAuthorization.cs",
+              "RelativeToolTip": "CarWash\\Service\\AdminAreaAuthorization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CarWash\\Domain\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\AppDbContext.cs",
+              "RelativeToolTip": "CarWash\\Domain\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "CarWash\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "CarWash\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Service\\Config.cs",
+              "RelativeDocumentMoniker": "CarWash\\Service\\Config.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Service\\Config.cs",
+              "RelativeToolTip": "CarWash\\Service\\Config.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Program.cs",
+              "RelativeDocumentMoniker": "CarWash\\Program.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Program.cs",
+              "RelativeToolTip": "CarWash\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CarWash\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CarWash\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwCcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\appsettings.json",
+              "RelativeDocumentMoniker": "CarWash\\appsettings.json",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\appsettings.json",
+              "RelativeToolTip": "CarWash\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T07:29:28.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Views\\Shared\\ScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CarWash\\Views\\Shared\\ScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Views\\Shared\\ScriptsPartial.cshtml",
+              "RelativeToolTip": "CarWash\\Views\\Shared\\ScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T07:29:19.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "CarWash\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "CarWash\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-05T07:29:19.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EFAppointmentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Repositories\\EntityFramework\\EFAppointmentsRepository.cs",
+              "RelativeDocumentMoniker": "CarWash\\Domain\\Repositories\\EntityFramework\\EFAppointmentsRepository.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Repositories\\EntityFramework\\EFAppointmentsRepository.cs",
+              "RelativeToolTip": "CarWash\\Domain\\Repositories\\EntityFramework\\EFAppointmentsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EFFreeTimesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Repositories\\EntityFramework\\EFFreeTimesRepository.cs",
+              "RelativeDocumentMoniker": "CarWash\\Domain\\Repositories\\EntityFramework\\EFFreeTimesRepository.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Repositories\\EntityFramework\\EFFreeTimesRepository.cs",
+              "RelativeToolTip": "CarWash\\Domain\\Repositories\\EntityFramework\\EFFreeTimesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EFServiceItemsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Repositories\\EntityFramework\\EFServiceItemsRepository.cs",
+              "RelativeDocumentMoniker": "CarWash\\Domain\\Repositories\\EntityFramework\\EFServiceItemsRepository.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Repositories\\EntityFramework\\EFServiceItemsRepository.cs",
+              "RelativeToolTip": "CarWash\\Domain\\Repositories\\EntityFramework\\EFServiceItemsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarWash\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CarWash\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T07:29:19.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CarWash\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CarWash\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CarWash\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CarWash\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T07:29:19.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CarWash\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CarWash\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T07:29:19.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Entites\\Client.cs",
+              "RelativeDocumentMoniker": "CarWash\\Domain\\Entites\\Client.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Entites\\Client.cs",
+              "RelativeToolTip": "CarWash\\Domain\\Entites\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EFClientsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Repositories\\EntityFramework\\EFClientsRepository.cs",
+              "RelativeDocumentMoniker": "CarWash\\Domain\\Repositories\\EntityFramework\\EFClientsRepository.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Repositories\\EntityFramework\\EFClientsRepository.cs",
+              "RelativeToolTip": "CarWash\\Domain\\Repositories\\EntityFramework\\EFClientsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IAppointmentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Repositories\\Abstract\\IAppointmentsRepository.cs",
+              "RelativeDocumentMoniker": "CarWash\\Domain\\Repositories\\Abstract\\IAppointmentsRepository.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Repositories\\Abstract\\IAppointmentsRepository.cs",
+              "RelativeToolTip": "CarWash\\Domain\\Repositories\\Abstract\\IAppointmentsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IClientsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Repositories\\Abstract\\IClientsRepository.cs",
+              "RelativeDocumentMoniker": "CarWash\\Domain\\Repositories\\Abstract\\IClientsRepository.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Repositories\\Abstract\\IClientsRepository.cs",
+              "RelativeToolTip": "CarWash\\Domain\\Repositories\\Abstract\\IClientsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Entites\\Appointment.cs",
+              "RelativeDocumentMoniker": "CarWash\\Domain\\Entites\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Entites\\Appointment.cs",
+              "RelativeToolTip": "CarWash\\Domain\\Entites\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IFreeTimesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Repositories\\Abstract\\IFreeTimesRepository.cs",
+              "RelativeDocumentMoniker": "CarWash\\Domain\\Repositories\\Abstract\\IFreeTimesRepository.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Repositories\\Abstract\\IFreeTimesRepository.cs",
+              "RelativeToolTip": "CarWash\\Domain\\Repositories\\Abstract\\IFreeTimesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\DataManager.cs",
+              "RelativeDocumentMoniker": "CarWash\\Domain\\DataManager.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\DataManager.cs",
+              "RelativeToolTip": "CarWash\\Domain\\DataManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IServiceItemsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Repositories\\Abstract\\IServiceItemsRepository.cs",
+              "RelativeDocumentMoniker": "CarWash\\Domain\\Repositories\\Abstract\\IServiceItemsRepository.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Repositories\\Abstract\\IServiceItemsRepository.cs",
+              "RelativeToolTip": "CarWash\\Domain\\Repositories\\Abstract\\IServiceItemsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ITakenTimeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Repositories\\Abstract\\ITakenTimeRepository.cs",
+              "RelativeDocumentMoniker": "CarWash\\Domain\\Repositories\\Abstract\\ITakenTimeRepository.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Repositories\\Abstract\\ITakenTimeRepository.cs",
+              "RelativeToolTip": "CarWash\\Domain\\Repositories\\Abstract\\ITakenTimeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EFTakenTimeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Repositories\\EntityFramework\\EFTakenTimeRepository.cs",
+              "RelativeDocumentMoniker": "CarWash\\Domain\\Repositories\\EntityFramework\\EFTakenTimeRepository.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Repositories\\EntityFramework\\EFTakenTimeRepository.cs",
+              "RelativeToolTip": "CarWash\\Domain\\Repositories\\EntityFramework\\EFTakenTimeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FreeTime.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Entites\\FreeTime.cs",
+              "RelativeDocumentMoniker": "CarWash\\Domain\\Entites\\FreeTime.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Entites\\FreeTime.cs",
+              "RelativeToolTip": "CarWash\\Domain\\Entites\\FreeTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TakenTime.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Entites\\TakenTime.cs",
+              "RelativeDocumentMoniker": "CarWash\\Domain\\Entites\\TakenTime.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Entites\\TakenTime.cs",
+              "RelativeToolTip": "CarWash\\Domain\\Entites\\TakenTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ServiceItem.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Entites\\ServiceItem.cs",
+              "RelativeDocumentMoniker": "CarWash\\Domain\\Entites\\ServiceItem.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Domain\\Entites\\ServiceItem.cs",
+              "RelativeToolTip": "CarWash\\Domain\\Entites\\ServiceItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AddAppointmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Models\\AddAppointmentViewModel.cs",
+              "RelativeDocumentMoniker": "CarWash\\Models\\AddAppointmentViewModel.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Models\\AddAppointmentViewModel.cs",
+              "RelativeToolTip": "CarWash\\Models\\AddAppointmentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CssPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Views\\Shared\\CssPartial.cshtml",
+              "RelativeDocumentMoniker": "CarWash\\Views\\Shared\\CssPartial.cshtml",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Views\\Shared\\CssPartial.cshtml",
+              "RelativeToolTip": "CarWash\\Views\\Shared\\CssPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T07:29:19.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CarWash\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CarWash\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T07:29:19.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DateOnlyComparer.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Service\\Converters\\DateOnlyComparer.cs",
+              "RelativeDocumentMoniker": "CarWash\\Service\\Converters\\DateOnlyComparer.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Service\\Converters\\DateOnlyComparer.cs",
+              "RelativeToolTip": "CarWash\\Service\\Converters\\DateOnlyComparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TimeOnlyConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Service\\Converters\\TimeOnlyConverter.cs",
+              "RelativeDocumentMoniker": "CarWash\\Service\\Converters\\TimeOnlyConverter.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Service\\Converters\\TimeOnlyConverter.cs",
+              "RelativeToolTip": "CarWash\\Service\\Converters\\TimeOnlyConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DateOnlyConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Service\\Converters\\DateOnlyConverter.cs",
+              "RelativeDocumentMoniker": "CarWash\\Service\\Converters\\DateOnlyConverter.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Service\\Converters\\DateOnlyConverter.cs",
+              "RelativeToolTip": "CarWash\\Service\\Converters\\DateOnlyConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TimeOnlyComparer.cs",
+              "DocumentMoniker": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Service\\Converters\\TimeOnlyComparer.cs",
+              "RelativeDocumentMoniker": "CarWash\\Service\\Converters\\TimeOnlyComparer.cs",
+              "ToolTip": "C:\\Users\\Matvey\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\PetProjects\\CarWash\\CarWash\\Service\\Converters\\TimeOnlyComparer.cs",
+              "RelativeToolTip": "CarWash\\Service\\Converters\\TimeOnlyComparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:29:19.925Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
